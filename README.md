@@ -2,7 +2,7 @@
 ##
 <img align="center" alt="nicolasbueno-logo" width="100" src="https://i.ibb.co/M1BkTnC/5ce1ca5f-5531-42eb-bf6a-8dae1e85b6f7.png" alt="5ce1ca5f-5531-42eb-bf6a-8dae1e85b6f7">
 
-🔭 Hoje estou trabalhando com front-end<br>
+🔭 Hoje estou trabalhando com desenvolvimento front-end<br>
 🌱 Estudando JavaScript
 <div align="center">
   <a href="https://github.com/Nicolasbuen0">
